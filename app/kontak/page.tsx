@@ -142,7 +142,7 @@ export default function KontakPage() {
                 </div>
                 <CardTitle className="text-blue-800">Telepon</CardTitle>
                 <CardDescription>
-                  (0232) 123-4567
+                  (+62)852-1014-7393
                   <br />
                   0812-3456-7890
                   <br />
